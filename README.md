@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arpitkumar80776
-- 👀 I’m interested in front end development 
+- 👀 I’m interested in front end and backend development 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me - arpitkumar0813@gmail.com
