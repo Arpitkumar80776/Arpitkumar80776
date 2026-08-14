@@ -5,8 +5,7 @@
 - 📫 How to reach me - arpitkumar0813@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm only 17 🙃
-- 🔥 Preparing for JEE 2026
-
+- 🔥 Student at CGC University, Mohali
 <!---
 Arpitkumar80776/Arpitkumar80776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
